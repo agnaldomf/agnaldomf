@@ -9,6 +9,6 @@
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javaScript" />
 
-[![Agnaldomf](https://github-readme-stats.vercel.app/api?username=Agnaldo)](https://github.com/anuraghazra/github-readme-stats)
+[![Agnaldomf](https://github-readme-stats.vercel.app/api?username=agnaldomf)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agnaldomf)](https://github.com/anuraghazra/github-readme-stats)
